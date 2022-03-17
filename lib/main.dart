@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Kuis TPM 2022',
       theme: ThemeData(),
-      home: LoginPage(),
+      home: ListPage(),
     );
   }
 }
